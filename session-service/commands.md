@@ -1,0 +1,1 @@
+psql -h 34.133.58.250 -d users -U maksim -p 5432 -a -q -f ./sql/users.sql
